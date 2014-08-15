@@ -1,0 +1,14 @@
+# Created by .gitignore support plugin (hsz.mobi)
+.classpath
+.project
+.settings/
+.svn/
+.idea/
+proguard-project.txt
+*.properties
+bin/
+gen/
+*.db
+*.iml
+build.xml
+META-INF
